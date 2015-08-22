@@ -1,1 +1,12 @@
-# PowershellToolbox-SSC
+This is companion code for the SQL Server Central (http://www.sqlservercentral.com) 
+article series Powershell Tool Time by Mike Fal(http://www.mikefal.net). 
+
+CODE HERE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+Code is covered by the Creative Commons Attribution Non-Commercial license: https://creativecommons.org/licenses/by-nc/3.0/
